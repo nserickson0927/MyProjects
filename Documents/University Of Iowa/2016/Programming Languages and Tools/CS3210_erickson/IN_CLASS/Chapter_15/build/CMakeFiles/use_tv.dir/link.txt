@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/use_tv.dir/use_tv.cpp.o CMakeFiles/use_tv.dir/tv.cpp.o  -o use_tv -rdynamic 

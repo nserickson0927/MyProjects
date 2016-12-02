@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/rtti1.dir/rtti1.cpp.o  -o rtti1 -rdynamic 

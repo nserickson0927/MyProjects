@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ic02.dir/main.cpp.o  -o ic02 -rdynamic 

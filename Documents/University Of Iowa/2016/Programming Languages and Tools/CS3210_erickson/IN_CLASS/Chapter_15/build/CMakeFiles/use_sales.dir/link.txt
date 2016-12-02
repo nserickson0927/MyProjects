@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/use_sales.dir/use_sales.cpp.o CMakeFiles/use_sales.dir/sales.cpp.o  -o use_sales -rdynamic 

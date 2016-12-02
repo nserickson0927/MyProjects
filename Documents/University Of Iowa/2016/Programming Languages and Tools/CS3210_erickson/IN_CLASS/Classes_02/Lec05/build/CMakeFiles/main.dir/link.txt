@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/main.dir/main.cc.o CMakeFiles/main.dir/Student.cc.o CMakeFiles/main.dir/Class.cc.o CMakeFiles/main.dir/MITPerson.cc.o  -o main -rdynamic 

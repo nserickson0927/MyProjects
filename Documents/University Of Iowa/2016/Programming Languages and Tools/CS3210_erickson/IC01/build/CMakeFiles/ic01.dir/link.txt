@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ic01.dir/main.cpp.o  -o ic01 -rdynamic 

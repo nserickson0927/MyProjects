@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/stone1.dir/stone1.cpp.o CMakeFiles/stone1.dir/stonewt1.cpp.o  -o stone1 -rdynamic 

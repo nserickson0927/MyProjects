@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/error5.dir/error5.cpp.o  -o error5 -rdynamic 

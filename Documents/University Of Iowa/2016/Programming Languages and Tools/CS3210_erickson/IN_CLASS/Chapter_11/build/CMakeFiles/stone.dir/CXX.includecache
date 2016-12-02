@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/stone.cpp
+iostream
+-
+stonewt.h
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/stonewt.h
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/stonewt.cpp
+iostream
+-
+stonewt.h
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/stonewt.h
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/stonewt.h
+

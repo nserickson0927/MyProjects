@@ -1,0 +1,56 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x08\x00H\x00W\x000\x004)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///mnt/nfs/netapp2/students/nserickson/CS3210_erickson/HW04/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr/local
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0,Launch Configuration 1
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=HW04
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x08\x00H\x00W\x000\x004\x00\x00\x00\x08\x00H\x00W\x000\x004)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///mnt/nfs/netapp2/students/nserickson/CS3210_erickson/HW04/
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=HW04,HW04
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Launch][Launch Configuration 1]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=HW04
+Type=Native Application
+
+[Launch][Launch Configuration 1][Data]
+Configured from ProjectItem=HW04,HW04
+Project Target=HW04,HW04
+Working Directory=file:///mnt/nfs/netapp2/students/nserickson/CS3210_erickson/HW04/build/
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit

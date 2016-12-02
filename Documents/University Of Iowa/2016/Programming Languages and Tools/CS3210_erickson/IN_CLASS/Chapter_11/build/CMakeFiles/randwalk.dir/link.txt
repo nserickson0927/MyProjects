@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/randwalk.dir/randwalk.cpp.o CMakeFiles/randwalk.dir/vect.cpp.o  -o randwalk -rdynamic 

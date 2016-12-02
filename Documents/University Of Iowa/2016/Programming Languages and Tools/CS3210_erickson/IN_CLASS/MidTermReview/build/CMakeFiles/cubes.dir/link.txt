@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/cubes.dir/cubes.cpp.o  -o cubes -rdynamic 

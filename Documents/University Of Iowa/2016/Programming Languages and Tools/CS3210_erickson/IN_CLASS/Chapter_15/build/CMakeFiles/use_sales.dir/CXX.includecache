@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/Chapter_15/sales.cpp
+sales.h
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/Chapter_15/sales.h
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/Chapter_15/sales.h
+stdexcept
+-
+string
+-
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/Chapter_15/use_sales.cpp
+iostream
+-
+sales.h
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/Chapter_15/sales.h
+

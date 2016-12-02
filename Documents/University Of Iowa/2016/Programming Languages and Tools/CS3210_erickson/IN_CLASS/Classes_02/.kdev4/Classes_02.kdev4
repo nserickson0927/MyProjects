@@ -1,0 +1,44 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x14\x00C\x00l\x00a\x00s\x00s\x00e\x00s\x00_\x000\x002)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Classes_02/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr/local
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=classes_01
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x14\x00C\x00l\x00a\x00s\x00s\x00e\x00s\x00_\x000\x002\x00\x00\x00\x14\x00c\x00l\x00a\x00s\x00s\x00e\x00s\x00_\x000\x001)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Classes_02/
+External Terminal=xterm -hold -e %exe
+Project Target=Classes_02,classes_01
+Use External Terminal=true
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit

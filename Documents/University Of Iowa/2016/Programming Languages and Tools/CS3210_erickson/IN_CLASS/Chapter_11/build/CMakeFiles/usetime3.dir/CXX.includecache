@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/mytime3.cpp
+mytime3.h
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/mytime3.h
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/mytime3.h
+iostream
+-
+
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/usetime3.cpp
+iostream
+-
+mytime3.h
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/CS3210_IN_CLASS/Chapter_11/mytime3.h
+

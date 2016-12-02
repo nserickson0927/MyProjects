@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/HW04.dir/main.cpp.o CMakeFiles/HW04.dir/book.cpp.o CMakeFiles/HW04.dir/list.cpp.o CMakeFiles/HW04.dir/loadfile.cpp.o  -o HW04 -rdynamic 

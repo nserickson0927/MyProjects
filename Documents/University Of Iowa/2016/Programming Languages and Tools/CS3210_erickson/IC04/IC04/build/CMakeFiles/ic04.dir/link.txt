@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ic04.dir/main.cpp.o  -o ic04 -rdynamic 

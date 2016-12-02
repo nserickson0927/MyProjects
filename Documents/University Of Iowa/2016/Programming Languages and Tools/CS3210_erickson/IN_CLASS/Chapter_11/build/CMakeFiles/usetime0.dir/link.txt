@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/usetime0.dir/usetime0.cpp.o CMakeFiles/usetime0.dir/mytime.cpp.o  -o usetime0 -rdynamic 

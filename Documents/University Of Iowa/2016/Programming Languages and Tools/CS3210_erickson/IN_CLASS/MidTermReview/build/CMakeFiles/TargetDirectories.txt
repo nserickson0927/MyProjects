@@ -1,0 +1,6 @@
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/MidTermReview/build/CMakeFiles/vegnewsBAD.dir
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/MidTermReview/build/CMakeFiles/vegnewsGOOD.dir
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/MidTermReview/build/CMakeFiles/pointer.dir
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/MidTermReview/build/CMakeFiles/cubes.dir
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/MidTermReview/build/CMakeFiles/use_new.dir
+/mnt/nfs/netapp2/students/nserickson/CS3210_erickson/IN_CLASS/MidTermReview/build/CMakeFiles/arrfun4.dir

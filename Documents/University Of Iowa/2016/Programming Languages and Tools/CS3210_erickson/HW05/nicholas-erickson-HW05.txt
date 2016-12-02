@@ -1,0 +1,57 @@
+HW05
+Nicholas Erickson
+
+1.
+Shallow copying is used by the default copy constructor and performs a member-by-member copy of the non static members. Deep copying is used for pointers and copies the pointed-to data, rather than copying the pointers themselves.
+
+2.
+if you are using pointers, it may be necessary to write your own copy constructor. If you don't, the compiler will use the default copy constructor which will only copy information in the pointer rather than copying the constructs referred to by the pointers.
+
+3.
+The public member functions in a derived class have direct access to all of the functions and class members in the base class.
+
+4.
+A virtual function decides which method to use if the method is invoked by a reference or a pointer instead of an object. Pure virtual functions have '=0' at the end of its declaration. You can't create an object of that class and is used solely to serve as base classes.
+
+5.
+The compiler uses the base class default constructor to construct the base class portion of the new object.
+
+6.
+Upcasting is used for converting a derived-class reference or pointer to a base class reference or pointer and is always allowed for public inheritance without the need of an explicit type cast. Downcasting is used for converting a base-class pointer or reference to a derived class pointer or reference and is not allowed without explicit type cast. 
+
+7.
+HW05_07.cpp
+
+8.
+you decal are the type of the parameters in the declaration and don't have to use them again.
+
+9.
+Exception handling provides a way to deal with unusual occurrences without stopping the program and giving an error.
+
+10. 
+Because catching the specific exception types first allows the program to catch potential program-stopping errors before they continue on and ruin the rest of the program.
+
+11.
+When passing by value, a copy of the parameter is made, making that copy an entirely new variable, and will cause major problems if the value is changed. So now you have 2 separate variables with the exact same value. Passing by reference means you pass on the reference and the information is then extracted from that reference, even if the value is changed.
+
+12.
+The -> is an indirect membership operator and dereferences structure members. while . is used of class direct membership access.
+
+13.
+HW05_13.cpp
+
+14.
+HW05_14.cpp
+
+
+
+
+
+
+
+
+
+
+
+
+ 

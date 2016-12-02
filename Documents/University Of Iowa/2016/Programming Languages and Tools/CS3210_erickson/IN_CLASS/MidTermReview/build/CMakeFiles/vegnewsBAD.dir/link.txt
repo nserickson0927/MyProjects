@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/vegnewsBAD.dir/vegnewsSTRBAD.cpp.o CMakeFiles/vegnewsBAD.dir/strngbad.cpp.o  -o vegnewsBAD -rdynamic 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/nested.dir/nested.cpp.o  -o nested -rdynamic 

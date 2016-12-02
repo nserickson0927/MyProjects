@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/use_new.dir/use_new.cpp.o  -o use_new -rdynamic 

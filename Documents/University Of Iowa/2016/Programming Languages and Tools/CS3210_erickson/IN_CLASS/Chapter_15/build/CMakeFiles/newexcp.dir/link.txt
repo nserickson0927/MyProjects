@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/newexcp.dir/newexcp.cpp.o  -o newexcp -rdynamic 

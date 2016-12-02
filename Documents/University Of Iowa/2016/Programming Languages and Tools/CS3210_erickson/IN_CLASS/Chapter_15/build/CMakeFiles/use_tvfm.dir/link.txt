@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/use_tvfm.dir/use_tvfm.cpp.o CMakeFiles/use_tvfm.dir/tv.cpp.o  -o use_tvfm -rdynamic 
